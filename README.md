@@ -1,5 +1,4 @@
-### Hi there 👋,
-##### My Name is Mahadi Hasan Khan
+### Hi,I'm Mahadi Hasan Khan  👋
 #### Apps Developer
 ![Apps Developer](https://media-exp1.licdn.com/dms/image/C4D16AQEh-2nnPenv_Q/profile-displaybackgroundimage-shrink_350_1400/0/1637651638676?e=1648684800&v=beta&t=0QJeprWoPzbbujCDmljnvr7yQP9747MbKjVSOuSIF1Y)
 
