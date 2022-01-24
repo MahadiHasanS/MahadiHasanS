@@ -6,7 +6,9 @@
 I am Md. Mahadi Hasan Khan. I am a professional Apps Developer. As a Apps Developer I have a great experiences on that skill. I provide services on Apps, Android/ IOS / WEB by flutter. I have Already  provided several projects on E-commerce, Learning, Earning, Education.
 
 Skills:
- 1. Android Apps. 2. IOS Apps. 3. WEB Apps
+ 1.Android Apps.
+ 2.IOS Apps. 
+ 3.WEB Apps
 
 - 🔭 I’m currently working on Mobile Apps and games Development. 
 - 🌱 I’m currently learning Dart Language With Flutter. 
